@@ -100,10 +100,3 @@ Contributions are welcome! If you have suggestions for improvements or features,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the Chatbot with CopilotKit! We hope you enjoy using it as much as we enjoyed building it!
-
-Citations:
-[1] https://github.com/imabutahersiddik/Chatbot-with-CopilotKit.git
